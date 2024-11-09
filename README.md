@@ -2,7 +2,7 @@
 
 - ✨ Current Name: 秋晚夕落 (Chumenta)
 - 🤔 Programming Language: **Javascript** or Python
-- 🔭 Currently Works: ZERO Series, Moon.Chumenta, NEXT Project ...
+- 🔭 Current Works: ZERO Series, Moon.Chumenta, NEXT Project ...
 - 📫 Contact Me: qwxl@zero-ai.online
 - 🌏 My Webiste: [Here](https://qwxl.zero-ai.online)
 
