@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Chumenta!
+
+- ✨ Current Name: 秋晚夕落 (Chumenta)
+- 🤔 Programming Language: **Javascript** or Python
+- 🔭 Currently Works: ZERO Series, Moon.Chumenta, NEXT Project ...
+- 📫 Contact Me: qwxl@zero-ai.online
+
+I'm 😴 Working...
 
 <!--
 **QWXL/QWXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
