@@ -4,8 +4,8 @@
 - ⌨️ Tags: Full-stack Engineer, Machine Learning, Algorithms, DevOps, Art, Marketing & Promotion
 - 🤔 Programming Language: **Javascript/Typescript**, Python
 - 🔭 Current Works: Personified, RunningWay ...
-- 📫 Contact Me: [qwxl@chumenta.cn](mailto:qwxl@chumenta.cn) or
-- 🌏 My Webiste: [Here](https://qwxl.chumenta.cn) (Not yet open)
+- 📫 Contact Me: [qwxl@chumenta.cn](mailto:qwxl@chumenta.cn)
+- 🌏 My Webiste: ~[Here](https://qwxl.chumenta.cn)~ (Not yet open)
 
 I'm 😴 Working... uh, maybe sleeping now?
 
