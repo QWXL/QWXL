@@ -1,7 +1,7 @@
 ## Hi, I'm Chumenta!
 
 - ✨ Current Name: 秋晚夕落 (QWXL / Chumenta)
-- ⌨️ Tags: Full-stack Engineer, Machine Learning, Algorithms, DevOps, Art, Marketing & Promotion
+- ⌨️ Tags: **Full-stack Engineer**, **Machine Learning**, Planning, Algorithms, DevOps, Artist, Marketing & Promotion
 - 🤔 Programming Language: **Javascript/Typescript**, Python
 - 🔭 Current Works: [Personified](https://moon.chumenta.cn), RunningWay ...
 - 📫 Contact Me: [qwxl@chumenta.cn](mailto:qwxl@chumenta.cn)
